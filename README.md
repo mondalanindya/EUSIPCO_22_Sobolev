@@ -24,7 +24,7 @@ If you find our work useful, please consider citing as:
 
 ## References
 
-- This work builds upon the code from [GraphTRSS](https://github.com/jhonygiraldo/GraphTRSS), [Sobolev_COVID19](https://github.com/jhonygiraldo/Sobolev_COVID19) and [gspbox](https://github.com/epfl-lts2/gspbox) and from the papers: 
+This work builds upon the code from [GraphTRSS](https://github.com/jhonygiraldo/GraphTRSS), [Sobolev_COVID19](https://github.com/jhonygiraldo/Sobolev_COVID19) and [gspbox](https://github.com/epfl-lts2/gspbox) and from the papers: 
 
 - Giraldo, Jhony H., Arif Mahmood, Belmar Garcia-Garcia, Dorina Thanou, and Thierry Bouwmans. "Reconstruction of Time-Varying Graph Signals via Sobolev Smoothness." IEEE Transactions on Signal and Information Processing over Networks 8 (2022): 201-214.
 - Giraldo, Jhony H., and Thierry Bouwmans. "On the minimization of Sobolev norms of time-varying graph signals: Estimation of new coronavirus disease 2019 cases." In 2020 IEEE 30th International Workshop on Machine Learning for Signal Processing (MLSP), pp. 1-6. IEEE, 2020.
