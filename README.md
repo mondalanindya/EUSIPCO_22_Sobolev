@@ -1,4 +1,4 @@
-Code implementation for the EUSIPCO 2022 paper: 
+Project Page for the EUSIPCO 2022 paper: 
 # Recovery of Missing Sensor Data by Reconstructing Time-varying Graph Signals
 Authors: [Anindya Mondal](https://sites.google.com/view/anindyamondal), [Mayukhmali Das](), [Aditi Chatterjee](), and [P. Venkateswaran]()
 
@@ -7,7 +7,7 @@ Authors: [Anindya Mondal](https://sites.google.com/view/anindyamondal), [Mayukhm
 - - - -
 **Abstract**: Wireless sensor networks are among the most promising technologies of the current era because of their small size, lower cost, and ease of deployment. With the increasing number of wireless sensors, the probability of generating missing data also rises. This incomplete data could lead to disastrous consequences if used for decision-making. There is rich literature dealing with this problem. However, most approaches show performance degradation when a sizable amount of data is lost. Inspired by the emerging field of graph signal processing, this paper performs a new study of a Sobolev reconstruction algorithm in wireless sensor networks. Experimental comparisons on several publicly available datasets demonstrate that the algorithm surpasses multiple state-of-the-art techniques by a maximum margin of 54\%. We further show that this algorithm consistently retrieves the missing data even during massive data loss situations.
 
-We will release the code for our EUSIPCO 2022 paper on this repository. [Preprint](https://arxiv.org/abs/2203.00418).
+[Preprint](https://eurasip.org/Proceedings/Eusipco/Eusipco2022/pdfs/0002181.pdf). [Presentation](https://mondalanindya.github.io/assets/presentations/EUSIPCO_2022_Presentation.pdf). [Poster] (https://mondalanindya.github.io/assets/posters/EUSIPCO_22_Poster.pdf)
 
 Download the Intel Lab Dataset from [here](http://db.csail.mit.edu/labdata/labdata.html) and the Mol'ene dataset from [here](https://github.com/bgirault-usc/Molene-Dataset).
 
