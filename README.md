@@ -22,6 +22,15 @@ If you find our work useful, please consider citing as:
         year={2022}
         }
         
+        @inproceedings{mondal2022recovery,
+        title={Recovery of Missing Sensor Data by Reconstructing Time-varying Graph Signals},
+        author={Mondal, Anindya and Das, Mayukhmali and Chatterjee, Aditi and Venkateswaran, Palaniandavar},
+        booktitle={2022 30th European Signal Processing Conference (EUSIPCO)},
+        pages={2181--2185},
+        year={2022},
+        organization={IEEE}
+        }
+        
 - - - -
 
 ## References
