@@ -1,5 +1,6 @@
-Project Page for the EUSIPCO 2022 paper: 
+Project Page for the paper: 
 # Recovery of Missing Sensor Data by Reconstructing Time-varying Graph Signals
+## Published at the [2022 30th European Signal Processing Conference (EUSIPCO), Belgrade, Serbia](https://2022.eusipco.org/)
 Authors: [Anindya Mondal](https://sites.google.com/view/anindyamondal), [Mayukhmali Das](), [Aditi Chatterjee](), and [P. Venkateswaran]()
 
 - - - -
@@ -9,7 +10,7 @@ Authors: [Anindya Mondal](https://sites.google.com/view/anindyamondal), [Mayukhm
 
 [Preprint](https://eurasip.org/Proceedings/Eusipco/Eusipco2022/pdfs/0002181.pdf) | [Presentation](https://mondalanindya.github.io/assets/presentations/EUSIPCO_2022_Presentation.pdf) | [Poster](https://mondalanindya.github.io/assets/posters/EUSIPCO_22_Poster.pdf) | [DOI](https://ieeexplore.ieee.org/document/9909940)
 
-The datsets Intel Lab Dataset and the Mol'ene dataset are available [here](https://github.com/bgirault-usc/Molene-Dataset) and [here](http://db.csail.mit.edu/labdata/labdata.html) respectively. 
+The datsets Intel Lab Dataset and the Mol'ene dataset are available for download [here](https://github.com/bgirault-usc/Molene-Dataset) and [here](http://db.csail.mit.edu/labdata/labdata.html) respectively. 
 
 If you find our work useful, please consider citing as: 
 - - - -
