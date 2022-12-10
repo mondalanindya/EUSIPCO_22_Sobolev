@@ -7,9 +7,9 @@ Authors: [Anindya Mondal](https://sites.google.com/view/anindyamondal), [Mayukhm
 - - - -
 **Abstract**: Wireless sensor networks are among the most promising technologies of the current era because of their small size, lower cost, and ease of deployment. With the increasing number of wireless sensors, the probability of generating missing data also rises. This incomplete data could lead to disastrous consequences if used for decision-making. There is rich literature dealing with this problem. However, most approaches show performance degradation when a sizable amount of data is lost. Inspired by the emerging field of graph signal processing, this paper performs a new study of a Sobolev reconstruction algorithm in wireless sensor networks. Experimental comparisons on several publicly available datasets demonstrate that the algorithm surpasses multiple state-of-the-art techniques by a maximum margin of 54\%. We further show that this algorithm consistently retrieves the missing data even during massive data loss situations.
 
-[Preprint](https://eurasip.org/Proceedings/Eusipco/Eusipco2022/pdfs/0002181.pdf) | [Presentation](https://mondalanindya.github.io/assets/presentations/EUSIPCO_2022_Presentation.pdf) | [Poster](https://mondalanindya.github.io/assets/posters/EUSIPCO_22_Poster.pdf)
+[Preprint](https://eurasip.org/Proceedings/Eusipco/Eusipco2022/pdfs/0002181.pdf) | [Presentation](https://mondalanindya.github.io/assets/presentations/EUSIPCO_2022_Presentation.pdf) | [Poster](https://mondalanindya.github.io/assets/posters/EUSIPCO_22_Poster.pdf) | [DOI](https://ieeexplore.ieee.org/document/9909940)
 
-Download the Intel Lab Dataset from [here](http://db.csail.mit.edu/labdata/labdata.html) and the Mol'ene dataset from [here](https://github.com/bgirault-usc/Molene-Dataset).
+The datsets Intel Lab Dataset and the Mol'ene dataset are available [here](https://github.com/bgirault-usc/Molene-Dataset) and [here](http://db.csail.mit.edu/labdata/labdata.html) respectively. 
 
 If you find our work useful, please consider citing as: 
 - - - -
