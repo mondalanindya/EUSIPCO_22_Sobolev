@@ -1,7 +1,7 @@
 Project Page for the paper: 
 # Recovery of Missing Sensor Data by Reconstructing Time-varying Graph Signals
 ## Published at the [2022 30th European Signal Processing Conference (EUSIPCO), Belgrade, Serbia](https://2022.eusipco.org/)
-Authors: [Anindya Mondal](https://sites.google.com/view/anindyamondal), [Mayukhmali Das](), [Aditi Chatterjee](), and [P. Venkateswaran]()
+Authors: [Anindya Mondal](https://mondalanindya.github.io/), [Mayukhmali Das](), [Aditi Chatterjee](), and [P. Venkateswaran]()
 
 - - - -
 ![Pipeline](https://raw.githubusercontent.com/anindya2001/EUSIPCO_22_Sobolev/main/schematic.png)
